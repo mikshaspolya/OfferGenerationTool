@@ -1,0 +1,12 @@
+E:\Programming_myself\alfa\новое\Models\bin\Debug\net6.0-windows\Models.deps.json
+E:\Programming_myself\alfa\новое\Models\bin\Debug\net6.0-windows\Models.dll
+E:\Programming_myself\alfa\новое\Models\bin\Debug\net6.0-windows\Models.pdb
+E:\Programming_myself\alfa\новое\Models\obj\Debug\net6.0-windows\Models.csproj.AssemblyReference.cache
+E:\Programming_myself\alfa\новое\Models\obj\Debug\net6.0-windows\Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming_myself\alfa\новое\Models\obj\Debug\net6.0-windows\Models.AssemblyInfoInputs.cache
+E:\Programming_myself\alfa\новое\Models\obj\Debug\net6.0-windows\Models.AssemblyInfo.cs
+E:\Programming_myself\alfa\новое\Models\obj\Debug\net6.0-windows\Models.csproj.CoreCompileInputs.cache
+E:\Programming_myself\alfa\новое\Models\obj\Debug\net6.0-windows\Models.dll
+E:\Programming_myself\alfa\новое\Models\obj\Debug\net6.0-windows\refint\Models.dll
+E:\Programming_myself\alfa\новое\Models\obj\Debug\net6.0-windows\Models.pdb
+E:\Programming_myself\alfa\новое\Models\obj\Debug\net6.0-windows\ref\Models.dll

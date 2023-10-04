@@ -1,0 +1,15 @@
+E:\Programming_myself\alfa\новое\DataAccessLayer\bin\Debug\net6.0-windows\DataAccessLayer.deps.json
+E:\Programming_myself\alfa\новое\DataAccessLayer\bin\Debug\net6.0-windows\DataAccessLayer.dll
+E:\Programming_myself\alfa\новое\DataAccessLayer\bin\Debug\net6.0-windows\DataAccessLayer.pdb
+E:\Programming_myself\alfa\новое\DataAccessLayer\bin\Debug\net6.0-windows\Models.dll
+E:\Programming_myself\alfa\новое\DataAccessLayer\bin\Debug\net6.0-windows\Models.pdb
+E:\Programming_myself\alfa\новое\DataAccessLayer\obj\Debug\net6.0-windows\DataAccessLayer.csproj.AssemblyReference.cache
+E:\Programming_myself\alfa\новое\DataAccessLayer\obj\Debug\net6.0-windows\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming_myself\alfa\новое\DataAccessLayer\obj\Debug\net6.0-windows\DataAccessLayer.AssemblyInfoInputs.cache
+E:\Programming_myself\alfa\новое\DataAccessLayer\obj\Debug\net6.0-windows\DataAccessLayer.AssemblyInfo.cs
+E:\Programming_myself\alfa\новое\DataAccessLayer\obj\Debug\net6.0-windows\DataAccessLayer.csproj.CoreCompileInputs.cache
+E:\Programming_myself\alfa\новое\DataAccessLayer\obj\Debug\net6.0-windows\DataAccessLayer.csproj.CopyComplete
+E:\Programming_myself\alfa\новое\DataAccessLayer\obj\Debug\net6.0-windows\DataAccessLayer.dll
+E:\Programming_myself\alfa\новое\DataAccessLayer\obj\Debug\net6.0-windows\refint\DataAccessLayer.dll
+E:\Programming_myself\alfa\новое\DataAccessLayer\obj\Debug\net6.0-windows\DataAccessLayer.pdb
+E:\Programming_myself\alfa\новое\DataAccessLayer\obj\Debug\net6.0-windows\ref\DataAccessLayer.dll

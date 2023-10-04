@@ -1,0 +1,178 @@
+22:46:14 (0001) process started
+22:46:15 (0009) sending request
+22:46:15 (0010) sending request
+22:46:15 (0003) sending request
+22:46:15 (0016) sending request
+22:46:15 (0005) sending request
+22:46:15 (0008) sending request
+22:46:15 (0011) sending request
+22:46:15 (0017) sending request
+22:46:16 (0019) sending request
+22:46:19 (0008) retrived response
+22:46:25 (0011) retrived response
+22:46:25 (0010) retrived response
+22:46:25 (0009) retrived response
+22:46:25 (0016) retrived response
+22:46:25 (0017) retrived response
+22:46:26 (0003) retrived response
+22:46:26 (0019) retrived response
+22:46:27 (0005) retrived response
+22:48:14 (0001) process started
+22:49:56 (0011) sending request
+22:49:56 (0009) sending request
+22:49:56 (0006) sending request
+22:49:56 (0010) sending request
+22:49:56 (0018) sending request
+22:49:56 (0017) sending request
+22:49:56 (0016) sending request
+22:49:58 (0008) sending request
+22:50:04 (0006) retrived response
+22:50:10 (0008) retrived response
+22:50:10 (0009) retrived response
+22:50:10 (0017) retrived response
+22:50:10 (0016) retrived response
+22:50:10 (0018) retrived response
+22:50:10 (0010) retrived response
+22:50:12 (0011) retrived response
+22:51:49 (0001) process started
+22:51:50 (0015) sending request
+22:51:50 (0014) sending request
+22:51:50 (0009) sending request
+22:51:50 (0003) sending request
+22:51:50 (0005) sending request
+22:51:50 (0008) sending request
+22:51:50 (0016) sending request
+22:51:50 (0017) sending request
+22:51:53 (0017) retrived response
+22:51:59 (0015) retrived response
+22:51:59 (0014) retrived response
+22:51:59 (0016) retrived response
+22:51:59 (0009) retrived response
+22:51:59 (0003) retrived response
+22:51:59 (0005) retrived response
+22:52:01 (0008) retrived response
+22:52:01 (0001) response processing
+22:52:01 (0001) response processing
+22:52:01 (0001) start creating offer
+22:52:02 (0001) offer creating successfully completed
+22:52:02 (0001) response processing
+22:52:02 (0001) start creating offer
+22:52:02 (0001) offer creating successfully completed
+22:52:02 (0001) response processing
+22:52:02 (0001) start creating offer
+22:52:02 (0001) offer creating successfully completed
+22:52:02 (0001) response processing
+22:52:02 (0001) response processing
+22:52:02 (0001) response processing
+22:52:02 (0001) process completed successfully
+22:52:34 (0001) process started
+22:52:34 (0031) sending request
+22:52:34 (0005) sending request
+22:52:34 (0008) sending request
+22:52:34 (0032) sending request
+22:52:34 (0033) sending request
+22:52:34 (0034) sending request
+22:52:34 (0035) sending request
+22:52:34 (0036) sending request
+22:52:34 (0037) sending request
+22:52:36 (0033) retrived response
+22:52:42 (0031) retrived response
+22:52:42 (0035) retrived response
+22:52:42 (0005) retrived response
+22:52:42 (0008) retrived response
+22:52:42 (0036) retrived response
+22:52:42 (0032) retrived response
+22:52:43 (0034) retrived response
+22:52:44 (0037) retrived response
+22:52:44 (0001) response processing
+22:52:44 (0001) response processing
+22:52:44 (0001) start creating offer
+22:52:44 (0001) offer creating successfully completed
+22:52:44 (0001) response processing
+22:52:44 (0001) response processing
+22:52:44 (0001) start creating offer
+22:52:44 (0001) offer creating successfully completed
+22:52:44 (0001) response processing
+22:52:44 (0001) start creating offer
+22:52:44 (0001) offer creating successfully completed
+22:52:44 (0001) response processing
+22:52:44 (0001) response processing
+22:52:44 (0001) response processing
+22:52:44 (0001) process completed successfully
+10:04:19 (0001) process started
+10:04:20 (0009) sending request
+10:04:20 (0010) sending request
+10:04:20 (0011) sending request
+10:04:20 (0008) sending request
+10:04:20 (0003) sending request
+10:04:20 (0016) sending request
+10:04:20 (0005) sending request
+10:04:20 (0017) sending request
+10:04:24 (0005) retrived response
+10:04:30 (0008) retrived response
+10:04:30 (0016) retrived response
+10:04:30 (0010) retrived response
+10:04:30 (0011) retrived response
+10:04:30 (0017) retrived response
+10:04:30 (0009) retrived response
+10:04:32 (0003) retrived response
+10:04:32 (0001) response processing
+10:04:32 (0001) response processing
+10:04:32 (0001) start creating offer
+10:04:33 (0001) offer creating successfully completed
+10:04:33 (0001) response processing
+10:04:33 (0001) response processing
+10:04:33 (0001) response processing
+10:04:33 (0001) start creating offer
+10:04:33 (0001) offer creating successfully completed
+10:04:33 (0001) response processing
+10:04:33 (0001) start creating offer
+10:04:33 (0001) offer creating successfully completed
+10:04:33 (0001) response processing
+10:04:33 (0001) process completed successfully
+10:04:46 (0001) process started
+10:04:46 (0001) clients were not found
+10:04:58 (0001) process started
+10:04:58 (0011) sending request
+10:04:58 (0003) sending request
+10:05:05 (0011) retrived response
+10:05:05 (0003) retrived response
+10:05:05 (0001) response processing
+10:05:05 (0001) response processing
+10:05:05 (0001) start creating offer
+10:05:05 (0001) offer creating successfully completed
+10:05:05 (0001) process completed successfully
+10:07:49 (0001) process started
+10:07:50 (0009) sending request
+10:07:50 (0008) sending request
+10:07:50 (0010) sending request
+10:07:50 (0018) sending request
+10:07:50 (0017) sending request
+10:07:50 (0005) sending request
+10:07:50 (0003) sending request
+10:07:50 (0016) sending request
+10:07:51 (0020) sending request
+10:07:54 (0018) retrived response
+10:08:00 (0020) retrived response
+10:08:00 (0008) retrived response
+10:08:00 (0016) retrived response
+10:08:00 (0010) retrived response
+10:08:00 (0017) retrived response
+10:08:01 (0005) retrived response
+10:08:01 (0009) retrived response
+10:08:02 (0003) retrived response
+10:08:02 (0001) response processing
+10:08:02 (0001) response processing
+10:08:02 (0001) start creating offer
+10:08:02 (0001) offer creating successfully completed
+10:08:02 (0001) response processing
+10:08:02 (0001) start creating offer
+10:08:02 (0001) offer creating successfully completed
+10:08:02 (0001) response processing
+10:08:02 (0001) start creating offer
+10:08:02 (0001) offer creating successfully completed
+10:08:02 (0001) response processing
+10:08:02 (0001) response processing
+10:08:03 (0001) response processing
+10:08:03 (0001) response processing
+10:08:03 (0001) process completed successfully

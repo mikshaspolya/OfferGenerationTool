@@ -1,0 +1,17 @@
+E:\Programming_myself\alfa\новое\BusinessLogicLayer\bin\Debug\net6.0-windows\BusinessLogicLayer.deps.json
+E:\Programming_myself\alfa\новое\BusinessLogicLayer\bin\Debug\net6.0-windows\BusinessLogicLayer.dll
+E:\Programming_myself\alfa\новое\BusinessLogicLayer\bin\Debug\net6.0-windows\BusinessLogicLayer.pdb
+E:\Programming_myself\alfa\новое\BusinessLogicLayer\bin\Debug\net6.0-windows\DataAccessLayer.dll
+E:\Programming_myself\alfa\новое\BusinessLogicLayer\bin\Debug\net6.0-windows\Models.dll
+E:\Programming_myself\alfa\новое\BusinessLogicLayer\bin\Debug\net6.0-windows\DataAccessLayer.pdb
+E:\Programming_myself\alfa\новое\BusinessLogicLayer\bin\Debug\net6.0-windows\Models.pdb
+E:\Programming_myself\alfa\новое\BusinessLogicLayer\obj\Debug\net6.0-windows\BusinessLogicLayer.csproj.AssemblyReference.cache
+E:\Programming_myself\alfa\новое\BusinessLogicLayer\obj\Debug\net6.0-windows\BusinessLogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming_myself\alfa\новое\BusinessLogicLayer\obj\Debug\net6.0-windows\BusinessLogicLayer.AssemblyInfoInputs.cache
+E:\Programming_myself\alfa\новое\BusinessLogicLayer\obj\Debug\net6.0-windows\BusinessLogicLayer.AssemblyInfo.cs
+E:\Programming_myself\alfa\новое\BusinessLogicLayer\obj\Debug\net6.0-windows\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+E:\Programming_myself\alfa\новое\BusinessLogicLayer\obj\Debug\net6.0-windows\BusinessLogicLayer.csproj.CopyComplete
+E:\Programming_myself\alfa\новое\BusinessLogicLayer\obj\Debug\net6.0-windows\BusinessLogicLayer.dll
+E:\Programming_myself\alfa\новое\BusinessLogicLayer\obj\Debug\net6.0-windows\refint\BusinessLogicLayer.dll
+E:\Programming_myself\alfa\новое\BusinessLogicLayer\obj\Debug\net6.0-windows\BusinessLogicLayer.pdb
+E:\Programming_myself\alfa\новое\BusinessLogicLayer\obj\Debug\net6.0-windows\ref\BusinessLogicLayer.dll
